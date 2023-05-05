@@ -26,7 +26,7 @@ Dots = 停止位置0 (デフォルト値)からずらすドット数。設定可
     ! U1 getvar "media.tof"
     "200"
 
-Programming Guide - media.tof
+Programming Guide - media.tof  
 https://docs.zebra.com/content/tcm/us/en/printers/software/zebra-zpl-ii,-zbi-2,-set-get-do,-mirror,-wml-programming-guide/c-sgd-commands-from-a-to-d/r-sgd-media-tof.html
 
 
