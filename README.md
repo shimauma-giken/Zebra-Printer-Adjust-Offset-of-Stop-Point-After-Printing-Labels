@@ -37,7 +37,7 @@ https://docs.zebra.com/content/tcm/us/en/printers/software/zebra-zpl-ii,-zbi-2,-
     ^XA^MNM,50^XZ
 
 詳細は下記を確認すること。
-Programming Guide - ^MN
+Programming Guide - ^MN  
 https://docs.zebra.com/content/tcm/us/en/printers/software/zebra-zpl-ii,-zbi-2,-set-get-do,-mirror,-wml-programming-guide/c-zpl-zpl-commands/r-zpl-mn.html
 
 <br><br>
@@ -50,5 +50,4 @@ Tear off 設定画面にて変更してください。設定画面の表示・�
 Menu > Media > Tear Off  
 ![](./TOF.bmp)
 
-# Zebra-Printer-Adjust-Offset-of-Stop Point After Printing Labels
- ゼブラプリンタのラベル停止位置の調整方法
+
